@@ -13,3 +13,5 @@ acionamento de um braço robótico numa interface cérebro-máquina síncrona. P
 - Modelagem Multivariada Autoregressiva;
 - Conectividade;
 - Redes Neurais Artificiais.
+
+Link para a dissertação: [http://www.peb.ufrj.br/teses/Tese0321_2019_06_14.pdf](http://www.peb.ufrj.br/teses/Tese0321_2019_06_14.pdf).
